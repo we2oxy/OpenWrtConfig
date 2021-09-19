@@ -1,0 +1,2 @@
+dnsproxy -l 127.0.0.1 -p 5335 -u tls://8.8.8.8:853 -u tls://1.1.1.1:853 --cache  --cache-min-ttl=3600 --fastest-addr  --ipv6-disabled  &> /tmp/5335.log &
+dnsproxy -l 127.0.0.1 -p 6336 -u 202.96.128.68 -u 202.96.128.86 --cache  --cache-min-ttl=3600 --fastest-addr  --ipv6-disabled  &> /tmp/6336.log &

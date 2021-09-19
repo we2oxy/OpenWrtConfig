@@ -1,0 +1,1 @@
+0 */1 * * * /usr/sbin/ntpdate time1.cloud.tencent.com
