@@ -1,0 +1,19 @@
+lhie1 规则: 
+https://cdn.jsdelivr.net/gh/lhie1/Rules@master/Shadowrocket/Complete.conf
+
+Tartarus2014 规则(包含RULE-SET):
+https://cdn.jsdelivr.net/gh/Tartarus2014/Shadowrocket-Script@main/Shadowrocket.conf
+
+a00789123 规则(包含RULE-SET):
+https://cdn.jsdelivr.net/gh/a00789123/rules-bak@main/Shadow-Rule-set.conf
+
+SS Rule Snippet 规则: 
+https://cdn.jsdelivr.net/gh/Hackl0us/SS-Rule-Snippet@master/LAZY_RULES/Shadowrocket.conf
+相关频道: @AppleNuts    相关群组: @OnlineAppleUserGroup
+
+h2y 规则: 
+https://cdn.jsdelivr.net/gh/h2y/Shadowrocket-ADBlock-Rules@master/sr_top500_banlist_ad.conf
+
+eHpo1 规则:
+https://cdn.jsdelivr.net/gh/eHpo1/Rules@master/Shadowrocket/Main.conf
+
