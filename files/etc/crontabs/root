@@ -1,1 +1,1 @@
-0 */1 * * * /usr/sbin/ntpdate time1.cloud.tencent.com
+0 */1 * * * sh -c "/usr/sbin/ntpdate time1.cloud.tencent.com;hwclock -w"
