@@ -1,0 +1,5 @@
+	list wan_bp_ips '223.5.5.5'
+	list wan_bp_ips '223.6.6.6'
+	list wan_bp_ips '119.29.29.29'
+	list wan_bp_ips '182.254.116.116'
+	

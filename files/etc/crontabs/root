@@ -1,1 +1,2 @@
 0 */1 * * * sh -c "/usr/sbin/ntpdate time1.cloud.tencent.com;hwclock -w"
+0 1 * * * /usr/bin/curl https://raw.hellogithub.com/hosts | tee /etc/github_hosts.txt
