@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>TLS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>223.5.5.5</string>
+					<string>223.6.6.6</string>
+				</array>
+				<key>ServerName</key>
+				<string>dns.alidns.com</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Configures device to use AliDNS Encrypted DNS over TLS</string>
+			<key>PayloadDisplayName</key>
+			<string>阿里 DNS over TLS</string>
+			<key>PayloadIdentifier</key>
+			<string>cc.lxd.alidot.dnsSettings.managed</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>53456719-458f-4940-8741-83414b22f5ae</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProhibitDisablement</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Adds the AliDNS to Big Sur and iOS 14 based systems</string>
+	<key>PayloadDisplayName</key>
+	<string>阿里 DNS over TLS</string>
+	<key>PayloadIdentifier</key>
+	<string>cc.lxd.alidot</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>a389c299-c229-4e35-9cba-75c3a7bc268b</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
