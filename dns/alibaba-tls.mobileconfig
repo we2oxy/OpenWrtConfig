@@ -20,7 +20,7 @@
 			<key>PayloadDescription</key>
 			<string>Configures device to use AliDNS Encrypted DNS over TLS</string>
 			<key>PayloadDisplayName</key>
-			<string>阿里 DNS over TLS</string>
+			<string>AliDNS over TLS</string>
 			<key>PayloadIdentifier</key>
 			<string>cc.lxd.alidot.dnsSettings.managed</string>
 			<key>PayloadType</key>
@@ -36,7 +36,7 @@
 	<key>PayloadDescription</key>
 	<string>Adds the AliDNS to Big Sur and iOS 14 based systems</string>
 	<key>PayloadDisplayName</key>
-	<string>阿里 DNS over TLS</string>
+	<string>AliDNS over TLS</string>
 	<key>PayloadIdentifier</key>
 	<string>cc.lxd.alidot</string>
 	<key>PayloadRemovalDisallowed</key>
